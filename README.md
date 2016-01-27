@@ -1,2 +1,1 @@
-# ddu
-OpenSolaris Device Driver Utility
+# OpenSolaris Device Driver Utility v.1.2
